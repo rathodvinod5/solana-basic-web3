@@ -26,7 +26,8 @@ const TOKEN_METADATA_PROGRAM_ID = new PublicKey(
 );
 
 // Substitute in your token mint account
-const tokenMintAccount = new PublicKey("5MYiodZpXLqUb3kWu1sXje5UokKaRqT5r8y8VChajfWs");
+// const tokenMintAccount = new PublicKey("5MYiodZpXLqUb3kWu1sXje5UokKaRqT5r8y8VChajfWs");
+const tokenMintAccount = new PublicKey("GDBtdZPnxKG4ZuScrxzdQs9sKT6qZxjJqrKSEf5BosM9");
 
 const metadataData = {
     name: "Spidey Token",

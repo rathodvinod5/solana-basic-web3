@@ -14,7 +14,7 @@ console.log(
 );
 
 // Substitute in your token mint account from create-token-mint.ts
-const tokenMintAccount = new PublicKey("5MYiodZpXLqUb3kWu1sXje5UokKaRqT5r8y8VChajfWs");
+const tokenMintAccount = new PublicKey("GDBtdZPnxKG4ZuScrxzdQs9sKT6qZxjJqrKSEf5BosM9");
 
 // Here we are making an associated token account for our own address, but we can
 // make an ATA on any other wallet in devnet!

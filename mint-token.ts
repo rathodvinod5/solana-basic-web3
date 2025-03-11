@@ -13,11 +13,11 @@ const MINOR_UNITS_PER_MAJOR_UNITS = Math.pow(10, 2);
 const user = getKeypairFromEnvironment("SECRET_KEY");
 
 // Substitute in your token mint account from create-token-mint.ts
-const tokenMintAccount = new PublicKey("5MYiodZpXLqUb3kWu1sXje5UokKaRqT5r8y8VChajfWs");
+const tokenMintAccount = new PublicKey("GDBtdZPnxKG4ZuScrxzdQs9sKT6qZxjJqrKSEf5BosM9");
 
 // Substitute in your own, or a friend's token account address, based on the previous step.
 const recipientAssociatedTokenAccount = new PublicKey(
-    "6D2TN1SH4r5ZmYPF6Dshqnaw2yTrgzVcfRb6pjAA6pDp",
+    "FXZ8rcw6qz1NBkNwcPXeGy57Li9S1qzta4oc7ED9DDfz",
 );
 
 const transactionSignature = await mintTo(
