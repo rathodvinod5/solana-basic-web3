@@ -1,0 +1,10 @@
+vinodrathod@Vinods-MacBook-Pro spl_token % npx esrun create-token-metadata
+🔑 We've loaded our keypair securely, using an env file! Our public key is: GXbXDaVB6aXqJA6XpLaPuEhUXcYn1gxVESMojwD3m6K5
+✅ Transaction confirmed, explorer link is: https://explorer.solana.com/tx/3CVfDcWtWkeKpx7jJPxWZnvqLzchoUUSHYPJNrPZrijBARSNGYpY5xr3XmJLBkEf1dg99sps9MMvTTxbsAWGuhE1?cluster=devnet
+✅ Look at the token mint again: https://explorer.solana.com/address/GDBtdZPnxKG4ZuScrxzdQs9sKT6qZxjJqrKSEf5BosM9?cluster=devnet
+vinodrathod@Vinods-MacBook-Pro spl_token % npx esrun create-token-account
+🔑 Loaded our keypair securely, using an env file! Our public key is: GXbXDaVB6aXqJA6XpLaPuEhUXcYn1gxVESMojwD3m6K5
+Token Account: FXZ8rcw6qz1NBkNwcPXeGy57Li9S1qzta4oc7ED9DDfz
+✅ Created token Account: https://explorer.solana.com/address/FXZ8rcw6qz1NBkNwcPXeGy57Li9S1qzta4oc7ED9DDfz?cluster=devnet
+vinodrathod@Vinods-MacBook-Pro spl_token % npx esrun mint-token
+✅ Success! Mint Token Transaction: https://explorer.solana.com/tx/66qgyXUZbtoJqrAevuUWKCi6tsGHb16pGLpGoRrsVNYpGvskPg94huXyW47ztMnKWQJoRM43d3GfxzUc9Mw5AG3H?cluster=devnet
